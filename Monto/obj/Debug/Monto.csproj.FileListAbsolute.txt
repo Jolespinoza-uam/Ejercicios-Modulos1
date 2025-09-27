@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\Monto\Monto\bin\Debug\Monto.exe.config
+C:\Users\Usuario\source\repos\Monto\Monto\bin\Debug\Monto.exe
+C:\Users\Usuario\source\repos\Monto\Monto\bin\Debug\Monto.pdb
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.Form1.resources
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.exe
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.pdb
+C:\Users\Usuario\source\repos\Monto\Monto\obj\Debug\Monto.exe.config
