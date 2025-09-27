@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\bin\Debug\CiudadesApp.exe.config
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\bin\Debug\CiudadesApp.exe
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\bin\Debug\CiudadesApp.pdb
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\bin\Debug\CiudadesLibrary1.dll
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\bin\Debug\CiudadesLibrary1.pdb
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.Form1.resources
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.Properties.Resources.resources
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\Ciudades.E21508EE.Up2Date
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.exe
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.pdb
+C:\Users\Usuario\source\repos\RegistroCiudades1\CiudadesApp\obj\Debug\CiudadesApp.exe.config

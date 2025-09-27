@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{053F4B25-E5AC-4E51-BEAA-25E3627C9656}|CiudadesApp\\CiudadesApp.csproj|C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{053F4B25-E5AC-4E51-BEAA-25E3627C9656}|CiudadesApp\\CiudadesApp.csproj|solutionrelative:ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{053F4B25-E5AC-4E51-BEAA-25E3627C9656}|CiudadesApp\\CiudadesApp.csproj|c:\\users\\usuario\\source\\repos\\registrociudades1\\ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{053F4B25-E5AC-4E51-BEAA-25E3627C9656}|CiudadesApp\\CiudadesApp.csproj|solutionrelative:ciudadesapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2B4EDA-E0B7-4004-88D7-5E61A8F9E314}|CiudadesLibrary1\\CiudadesLibrary1.csproj|C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\ciudadeslibrary1\\dao\\ciudaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2B4EDA-E0B7-4004-88D7-5E61A8F9E314}|CiudadesLibrary1\\CiudadesLibrary1.csproj|solutionrelative:ciudadeslibrary1\\dao\\ciudaddao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2B4EDA-E0B7-4004-88D7-5E61A8F9E314}|CiudadesLibrary1\\CiudadesLibrary1.csproj|c:\\users\\usuario\\source\\repos\\registrociudades1\\ciudadeslibrary1\\modelos\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2B4EDA-E0B7-4004-88D7-5E61A8F9E314}|CiudadesLibrary1\\CiudadesLibrary1.csproj|solutionrelative:ciudadeslibrary1\\modelos\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesLibrary1\\Modelos\\Ciudad.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary1\\Modelos\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesLibrary1\\Modelos\\Ciudad.cs",
+              "RelativeToolTip": "CiudadesLibrary1\\Modelos\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:48:59.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CiudadDao.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesLibrary1\\Dao\\CiudadDao.cs",
+              "RelativeDocumentMoniker": "CiudadesLibrary1\\Dao\\CiudadDao.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesLibrary1\\Dao\\CiudadDao.cs",
+              "RelativeToolTip": "CiudadesLibrary1\\Dao\\CiudadDao.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:15:22.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CiudadesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesApp\\Form1.cs",
+              "RelativeToolTip": "CiudadesApp\\Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:01:17.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesApp\\Form1.cs",
+              "RelativeDocumentMoniker": "CiudadesApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\RegistroCiudades1\\CiudadesApp\\Form1.cs [Design]",
+              "RelativeToolTip": "CiudadesApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T21:38:20.432Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
